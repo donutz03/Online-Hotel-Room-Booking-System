@@ -1,4 +1,4 @@
-
+/*
     public class MyClass {
 int numar = 10;
 string nume = "John";
@@ -94,3 +94,5 @@ class Cerc : Forma
          Console.WriteLine("Desenează un cerc.");
     }
 }
+
+*/
