@@ -95,4 +95,15 @@ class Cerc : Forma
     }
 }
 
+namespace MyApp 
+{
+    class Program
+    {
+        static void main(string[] args)
+        {
+            Console.WriteLine("Salut, lume!");
+        }
+    }
+}
+
 */
